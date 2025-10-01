@@ -22,10 +22,6 @@ It was built by following the tutorial SONAR Rock vs Mine Prediction with Python
 5. Model evaluation 
 
 
-## 📊 Results
-- [Summarize results: accuracy, score, graphs]  
-- [Show sample visualization screenshot if possible]
-
 ## 🙏 Credits
 This project is based on the tutorial: [YT:Siddhardhan].  
 I thank the author for providing clear guidance. My contribution is in implementation practice, experimenting with variations, and documenting the process.
