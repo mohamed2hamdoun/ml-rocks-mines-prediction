@@ -16,11 +16,11 @@ It was built by following the tutorial SONAR Rock vs Mine Prediction with Python
 
 ## 🚀 Steps Implemented
 1. Data loading and preprocessing  
-2. Exploratory Data Analysis (EDA)  
-3. Feature engineering (if any)  
-4. Model training (e.g., Linear Regression, Decision Tree, etc.)  
-5. Model evaluation (e.g., R², RMSE)  
-6. Custom experiments [if you tried additional algorithms or tweaks]
+2. Exploratory Data Analysis 
+3. Feature engineering   
+4. Model training   
+5. Model evaluation 
+
 
 ## 📊 Results
 - [Summarize results: accuracy, score, graphs]  
