@@ -2,7 +2,7 @@
 # Project Title (e.g., House Price Prediction using Machine Learning)
 
 ## 📌 Project Overview
-This project implements a machine learning model to [state goal clearly, e.g., predict house prices based on various features].  
+This project implements a machine learning model that classifies sonar signal returns as either **rock** or **mine**.  
 It was built by following the tutorial SONAR Rock vs Mine Prediction with Python (https://youtu.be/fiz1ORTBGpY?si=MksTLhAeQy1nIScX) for learning purposes.  
 
 ## 📂 Dataset
