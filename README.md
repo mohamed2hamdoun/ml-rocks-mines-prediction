@@ -1,5 +1,5 @@
 # ml-rocks-mines-prediction
-# Project Title (e.g., House Price Prediction using Machine Learning)
+# Project Title (House Price Prediction using Machine Learning)
 
 ## 📌 Project Overview
 This project implements a machine learning model that classifies sonar signal returns as either **rock** or **mine**.  
